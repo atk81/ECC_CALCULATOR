@@ -6,12 +6,12 @@
 > 1. <b>ecc_calculator</b> is use for the finding all the points lies on the ecc.
 > 2. <b>point_sum</b> is use for the find the sum of two point P+Q.
 > 3. <b>findNalpha</b> is use for the value of k$\alpha$.
-> 4. Find  public key if private key $n_B$ is given:
-   $P_B = n_B*\alpha$ where $P_B$ is public key.
-> 5. Find Encryption of $P_M$ for random number k is:
+> 4. Find  public key if private key <!-- $n_B$ --> <img style="transform: translateY(0.25em);" src="../svg/3IbXjnx56G.svg"/> is given:
+   $P_B = n_B*\alpha$ where <!-- $P_B$ --> <img style="transform: translateY(0.25em);" src="../svg/ql4dO8KKNK.svg"/> is public key.
+> 5. Find Encryption of <!-- $P_M$ --> <img style="transform: translateY(0.25em);" src="../svg/HPielcdLY0.svg"/> for random number k is:
     $C_M$ = {${k\alpha}$, ${P_M + kP_B}$}.
-    where $C_M$ is cipher text.
-> 6. Decrypt cipher text(Recover $P_M$ from $C_M$): ${P_M = P_M + k*P_B - n_B(k\alpha) }$. Now consider after solving ${P_M + k*P_B}$ and ${n_B(k\alpha)}$ is {$x_1$,$y_1$} - {$x_2$,$y_2$} is equal to {$x_1$,$y_1$} + {$x_2$,$p - y_2$}.
+    where <!-- $C_M$ --> <img style="transform: translateY(0.25em);" src="../svg/CYI33niUfX.svg"/> is cipher text.
+> 6. Decrypt cipher text(Recover <!-- $P_M$ --> <img style="transform: translateY(0.25em);" src="../svg/ZFB1x8KoB5.svg"/> from <!-- $C_M$ --> <img style="transform: translateY(0.25em);" src="../svg/Crf7nag5Cb.svg"/>): <!-- ${P_M = P_M + k*P_B - n_B(k\alpha) }$ --> <img style="transform: translateY(0.25em);" src="../svg/x5wiDHNSom.svg"/>. Now consider after solving ${P_M + k*P_B}$ and <!-- ${n_B(k\alpha)}$ --> <img style="transform: translateY(0.25em);" src="../svg/KTtlUNf77t.svg"/> is {$x_1$,$y_1$} - {$x_2$,$y_2$} is equal to {$x_1$,$y_1$} + {$x_2$,$p - y_2$}.
 
 Note: In Code you will get x_1 which is equal to $x_i$, and x__i is equal to $x^i$.
 
