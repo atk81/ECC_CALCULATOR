@@ -30,7 +30,3 @@ modulus of p = 11.
 > 2. Find the sum of three points on an elliptic curve that lie on straight line?.
 
 >3. In the elliptic curve E(a,b) over the GF($2^n$). Show that slope of tangent at point $P(x_p , y_q )$ is equal to $(x_p + y_p/x_p )$. Also find the expression $P + Q$.
-
-<script type="text/javascript" async
-
-src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
