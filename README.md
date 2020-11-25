@@ -16,7 +16,7 @@
 Note: In Code you will get x_1 which is equal to $x_i$, and x__i is equal to $x^i$.
 
 # Assignment:
-> 1. Consider the elliptic curve $E_{11}$ (1, 6); that is, the curve defined by $y^2 = x^3 + x + 6$ with
+> 1. Consider the elliptic curve $E_{11}$(1, 6); that is, the curve defined by $y^2 = x^3 + x + 6$ with
 modulus of p = 11.
 
     (i) Find all points.
@@ -30,3 +30,7 @@ modulus of p = 11.
 > 2. Find the sum of three points on an elliptic curve that lie on straight line?.
 
 >3. In the elliptic curve E(a,b) over the GF($2^n$). Show that slope of tangent at point $P(x_p , y_q )$ is equal to $(x_p + y_p/x_p )$. Also find the expression $P + Q$.
+
+<script type="text/javascript" async
+
+src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
