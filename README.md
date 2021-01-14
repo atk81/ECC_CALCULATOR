@@ -29,4 +29,3 @@ modulus of p = 11.
 
  2. Find the sum of three points on an elliptic curve that lie on straight line?.
 
- 3. In the elliptic curve E(a,b) over the GF(<!-- $2^n$ --> <img src="https://render.githubusercontent.com/render/math?math=2%5En">). Show that slope of tangent at point <!-- $P(x_p , y_q )$ --> <img src="https://render.githubusercontent.com/render/math?math=P(x_p%20%2C%20y_q%20)"> is equal to <!-- $(x_p + y_p/x_p )$ --> <img src="https://render.githubusercontent.com/render/math?math=(x_p%20%2B%20y_p%2Fx_p%20)">. Also find the expression <!-- $P + Q$ --> <img src="https://render.githubusercontent.com/render/math?math=P%20%2B%20Q">.
